@@ -1,0 +1,298 @@
+[
+  {
+    "name": "Wegiel",
+    "displayName": "Wegiel",
+    "criteriaName": "stat.mineBlock.minecraft.coal_ore",
+    "scores": {
+      "Beaforee": 2014,
+      "Rita": 642,
+      "marecki28pp": 1042,
+      "Sar": 2797,
+      "andreymrov": 2746,
+      "Gaworek": 2457,
+      "oliwier418": 357,
+      "LoczeK": 7574,
+      "shaggyyy": 1446
+    }
+  },
+  {
+    "name": "Zelazo",
+    "displayName": "Zelazo",
+    "criteriaName": "stat.mineBlock.minecraft.iron_ore",
+    "scores": {
+      "Beaforee": 561,
+      "Rita": 173,
+      "marecki28pp": 53,
+      "Sar": 1002,
+      "andreymrov": 2200,
+      "Gaworek": 915,
+      "oliwier418": 213,
+      "LoczeK": 2575,
+      "shaggyyy": 618
+    }
+  },
+  {
+    "name": "death",
+    "displayName": "death",
+    "criteriaName": "deathCount",
+    "scores": {
+      "Beaforee": 2,
+      "Rita": 22,
+      "marecki28pp": 31,
+      "Sar": 8,
+      "andreymrov": 73,
+      "Gaworek": 35,
+      "oliwier418": 111,
+      "LoczeK": 35,
+      "shaggyyy": 5
+    }
+  },
+  {
+    "name": "distanceSwim",
+    "displayName": "distanceSwim",
+    "criteriaName": "stat.swimOneCm",
+    "scores": {
+      "Beaforee": 121388,
+      "Rita": 66958,
+      "marecki28pp": 177543,
+      "Sar": 99020,
+      "andreymrov": 392658,
+      "Gaworek": 379364,
+      "oliwier418": 594948,
+      "LoczeK": 607966,
+      "shaggyyy": 40019
+    }
+  },
+  {
+    "name": "level",
+    "displayName": "level",
+    "criteriaName": "level",
+    "scores": {
+      "Beaforee": 8,
+      "Rita": 33,
+      "marecki28pp": 41,
+      "Sar": 37,
+      "andreymrov": 9,
+      "Gaworek": 3,
+      "oliwier418": 46,
+      "LoczeK": 27,
+      "shaggyyy": 32
+    }
+  },
+  {
+    "name": "distanceWalk",
+    "displayName": "distanceWalk",
+    "criteriaName": "stat.walkOneCm",
+    "scores": {
+      "Beaforee": 1906049,
+      "Rita": 9020916,
+      "marecki28pp": 20001798,
+      "Sar": 5004566,
+      "andreymrov": 15881934,
+      "Gaworek": 23661224,
+      "oliwier418": 9486961,
+      "LoczeK": 30404937,
+      "shaggyyy": 1883874
+    }
+  },
+  {
+    "name": "health",
+    "displayName": "health",
+    "criteriaName": "health",
+    "scores": {
+      "Beaforee": 20,
+      "Rita": 19,
+      "marecki28pp": 20,
+      "Sar": 20,
+      "andreymrov": 20,
+      "Gaworek": 20,
+      "oliwier418": 20,
+      "LoczeK": 20,
+      "shaggyyy": 20
+    }
+  },
+  {
+    "name": "Diamenty",
+    "displayName": "Diamenty",
+    "criteriaName": "stat.mineBlock.minecraft.diamond_ore",
+    "scores": {
+      "Beaforee": 82,
+      "Rita": 14,
+      "marecki28pp": 23,
+      "Sar": 39,
+      "andreymrov": 246,
+      "Gaworek": 170,
+      "oliwier418": 30,
+      "LoczeK": 286,
+      "shaggyyy": 107
+    }
+  },
+  {
+    "name": "distanceCrouch",
+    "displayName": "distanceCrouch",
+    "criteriaName": "stat.crouchOneCm",
+    "scores": {
+      "Beaforee": 615497,
+      "Rita": 56574,
+      "marecki28pp": 222347,
+      "Sar": 228185,
+      "andreymrov": 2173293,
+      "Gaworek": 192420,
+      "oliwier418": 292985,
+      "LoczeK": 967479,
+      "shaggyyy": 1320289
+    }
+  },
+  {
+    "name": "Redstone",
+    "displayName": "Redstone",
+    "criteriaName": "stat.mineBlock.minecraft.redstone_ore",
+    "scores": {
+      "Beaforee": 785,
+      "Rita": 126,
+      "marecki28pp": 373,
+      "Sar": 249,
+      "andreymrov": 1142,
+      "Gaworek": 515,
+      "oliwier418": 84,
+      "LoczeK": 1474,
+      "shaggyyy": 528
+    }
+  },
+  {
+    "name": "timePlayed",
+    "displayName": "timePlayed",
+    "criteriaName": "stat.playOneMinute",
+    "scores": {
+      "Beaforee": 1076376,
+      "Rita": 2151914,
+      "marecki28pp": 4553426,
+      "Sar": 1593712,
+      "andreymrov": 9853364,
+      "Gaworek": 9208221,
+      "oliwier418": 4450911,
+      "LoczeK": 12610556,
+      "shaggyyy": 1100833
+    }
+  },
+  {
+    "name": "distanceFly",
+    "displayName": "distanceFly",
+    "criteriaName": "stat.flyOneCm",
+    "scores": {
+      "Beaforee": 7759915,
+      "Rita": 121673,
+      "marecki28pp": 15802507,
+      "Sar": 4808211,
+      "andreymrov": 43125700,
+      "Gaworek": 43308289,
+      "oliwier418": 44942366,
+      "LoczeK": 9633720,
+      "shaggyyy": 6726364
+    }
+  },
+  {
+    "name": "Szmaragdy",
+    "displayName": "Szmaragdy",
+    "criteriaName": "stat.mineBlock.minecraft.emerald_ore",
+    "scores": {
+      "Beaforee": 3,
+      "marecki28pp": 10,
+      "andreymrov": 19,
+      "Gaworek": 6,
+      "oliwier418": 4,
+      "LoczeK": 8,
+      "shaggyyy": 9
+    }
+  },
+  {
+    "name": "xp",
+    "displayName": "xp",
+    "criteriaName": "xp",
+    "scores": {
+      "Beaforee": 132,
+      "Rita": 1807,
+      "marecki28pp": 3279,
+      "Sar": 2444,
+      "andreymrov": 139,
+      "Gaworek": 39,
+      "oliwier418": 4325,
+      "LoczeK": 1134,
+      "shaggyyy": 1665
+    }
+  },
+  {
+    "name": "Lapis",
+    "displayName": "Lapis",
+    "criteriaName": "stat.mineBlock.minecraft.lapis_ore",
+    "scores": {
+      "Beaforee": 61,
+      "Rita": 10,
+      "marecki28pp": 27,
+      "Sar": 53,
+      "andreymrov": 72,
+      "Gaworek": 89,
+      "oliwier418": 10,
+      "LoczeK": 103,
+      "shaggyyy": 22
+    }
+  },
+  {
+    "name": "Xpp",
+    "displayName": "§aXp",
+    "criteriaName": "xp",
+    "scores": {}
+  },
+  {
+    "name": "distanceSprint",
+    "displayName": "distanceSprint",
+    "criteriaName": "stat.sprintOneCm",
+    "scores": {
+      "Beaforee": 1260007,
+      "Rita": 181077,
+      "marecki28pp": 69898,
+      "Sar": 1283276,
+      "andreymrov": 21466596,
+      "Gaworek": 6611653,
+      "oliwier418": 5643743,
+      "LoczeK": 15421710,
+      "shaggyyy": 922804
+    }
+  },
+  {
+    "name": "distanceTotal",
+    "displayName": "distanceTotal",
+    "criteriaName": "dummy",
+    "scores": {}
+  },
+  {
+    "name": "Kwarc",
+    "displayName": "Kwarc",
+    "criteriaName": "stat.mineBlock.minecraft.quartz_ore",
+    "scores": {
+      "marecki28pp": 6,
+      "Sar": 45,
+      "andreymrov": 766,
+      "Gaworek": 786,
+      "oliwier418": 699,
+      "LoczeK": 2058,
+      "shaggyyy": 20
+    }
+  },
+  {
+    "name": "Zloto",
+    "displayName": "Zloto",
+    "criteriaName": "stat.mineBlock.minecraft.gold_ore",
+    "scores": {
+      "Beaforee": 213,
+      "Rita": 28,
+      "marecki28pp": 56,
+      "Sar": 115,
+      "andreymrov": 406,
+      "Gaworek": 628,
+      "oliwier418": 135,
+      "LoczeK": 534,
+      "shaggyyy": 147
+    }
+  }
+]
